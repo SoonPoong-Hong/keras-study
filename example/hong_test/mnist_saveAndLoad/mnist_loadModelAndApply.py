@@ -42,7 +42,7 @@ def printNum(n):
     else:
         print('    ', end='')
 
-test_num = plt.imread('7.png')
+test_num = plt.imread('6-2.jpg')
 print("test_num.shape : ", test_num.shape)
 test_num = test_num[:,:,0]
 print("test_num.shape : " , test_num.shape)
