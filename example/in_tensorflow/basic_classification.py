@@ -36,7 +36,8 @@ plt.figure()
 plt.imshow(train_images[0])
 plt.colorbar()
 plt.grid(False)
-# plt.show()
+plt.show()
+
 
 plt.figure(figsize=(10,10))
 for i in range(25):
